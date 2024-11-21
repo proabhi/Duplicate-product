@@ -1,0 +1,38 @@
+.custom_pro_fieldd {
+    margin-bottom: 18px;
+}
+.pro_dupli_action input[type="radio"] {
+    vertical-align: text-top !important;
+}
+ul.sub_child_cat {
+    padding-left: 22px;
+
+}
+.parent_cat_name strong {
+    text-transform: capitalize;
+}
+
+li.main_cat_li {
+    margin-left: 25px;
+}
+ul.sub_child_last {
+    margin-left: 50px;
+}
+.product_duplicate_secs {
+    width: 24%;
+    overflow: scroll;
+    height: 350px;
+	display:none;
+}
+select.women_input_drop {
+    display: none;
+}
+.women_not_match,.kids_not_match{
+display:none;	
+}
+
+.women_not_match p,.kids_not_match p{
+	color: red;
+    font-size: 20px;
+    margin: 5px 0 !important
+}
